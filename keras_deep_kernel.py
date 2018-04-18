@@ -11,7 +11,6 @@ import keras.backend as K
 K.set_image_data_format('channels_last')
 prep = MNISTPrep()
 
-#352497
 
 def mymodel(input_shape):
 
