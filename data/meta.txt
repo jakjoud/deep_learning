@@ -1,0 +1,4 @@
+Loss = 0.00650211378129
+Accuracy = 0.996
+Epochs = 30
+Batch size = 32
